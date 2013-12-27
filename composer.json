@@ -1,0 +1,14 @@
+{
+    "name": "twinh/alipay-mobile",
+    "description": "支付宝移动端支付接口",
+    "version": "0.9.9",
+    "authors": [
+        {
+            "name": "Twin Huang",
+            "email": "twinhuang@qq.com"
+        }
+    ],
+    "require": {
+
+    }
+}
