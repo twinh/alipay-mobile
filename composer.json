@@ -1,7 +1,7 @@
 {
     "name": "twinh/alipay-mobile",
     "description": "支付宝移动端支付接口",
-    "version": "0.9.9",
+    "version": "0.9.10",
     "authors": [
         {
             "name": "Twin Huang",
