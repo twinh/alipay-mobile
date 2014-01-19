@@ -10,5 +10,8 @@
     ],
     "require": {
 
+    },
+    "autoload": {
+        "classmap": ["code_demo"]
     }
 }
